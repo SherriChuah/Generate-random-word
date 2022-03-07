@@ -1,0 +1,11 @@
+house (2 signs)
+detached (2 signs)
+semi-detached 
+terrace
+bungalow (2 signs)
+cottage
+flat
+student flat
+tent
+caravan (2 signs, stationary and moving)
+home

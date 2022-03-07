@@ -1,0 +1,13 @@
+money
+how much
+pence
+pound
+cheap
+expensive
+age
+adult
+child
+baby
+children
+young
+old

@@ -1,0 +1,21 @@
+colours
+white
+black
+yellow (2 signs)
+blue
+pink
+orange
+green
+red
+purple
+brown
+cream
+grey (2 signs)
+silver (2 signs)
+gold (2 signs)
+light
+dark
+checkered
+striped
+poker dots
+patterns

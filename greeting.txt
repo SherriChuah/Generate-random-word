@@ -1,0 +1,22 @@
+hello
+goodbye
+good morning
+good afternoon
+good evening
+good night
+how are you
+see you later
+see you next week
+happy christmas (2 signs)
+happy birthday (2 signs)
+happy new year
+happy easter (4 signs)
+happy halloween (many)
+happy fathers day
+happy mothers day
+holiday
+happy valentines day
+happy anniversary
+ok
+nice to see you
+nice to meet you
